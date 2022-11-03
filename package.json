@@ -1,0 +1,21 @@
+{
+  "name": "draaiboek-trefpunt",
+  "version": "1.0.0",
+  "description": "Het grote digitale draaiboek van chiro Trefpunt",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joris-Peeters/Draaiboek-trefpunt.git"
+  },
+  "author": "Joris Peeters",
+  "bugs": {
+    "url": "https://github.com/Joris-Peeters/Draaiboek-trefpunt/issues"
+  },
+  "homepage": "https://trefdb.jpsystems.com",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}

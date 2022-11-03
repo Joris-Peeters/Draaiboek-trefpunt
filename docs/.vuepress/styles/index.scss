@@ -1,0 +1,19 @@
+// Chiro kleuren:
+$chiro-main: #E1143C;
+$chiro-snd: #00124D;
+$chiro-trd: #E4D096;
+
+:root {
+    // brand colors
+    --c-brand: #E1143C;
+    // --c-brand: #3eaf7c;
+    --c-brand-light: #ed3c5e;
+    // --c-brand-light: #4abf8a;
+}
+html.dark {
+    // brand colors
+    --c-brand: #ed3c5e;
+    // --c-brand: #3aa675;
+    --c-brand-light: #E1143C;
+    // --c-brand-light: #349469;
+}  
