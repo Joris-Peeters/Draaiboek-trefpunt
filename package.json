@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/Joris-Peeters/Draaiboek-trefpunt/issues"
   },
-  "homepage": "https://trefdb.jpsystems.com",
+  "homepage": "https://trefdb.jpsystems.xyz",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
   }

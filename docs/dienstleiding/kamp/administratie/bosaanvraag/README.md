@@ -4,6 +4,10 @@
 Dit artikel is gebaseerd op een outdated [artikel van Opkamp.be](https://www.opkamp.be/toelatingen-wallonie).
 :::
 
+::: tip
+Sinds maart 2023 is er een **nieuwe online manier** om de bosaanvragen te doen. Op [deze pagina](https://www.wallonie.be/fr/demarches/demander-une-autorisation-pour-organiser-une-activite-dans-une-zone-dacces-libre-en-foret#) staat de volledige uitleg.
+:::
+
 ## Waarom en Hoe
 
 Om te mogen spelen en/of hout te sprokkelen in Waalse bossen dient men een aanvraag in te dienen bij het departement van natuur en bos (DNF). Meestal bezorgen zij je dan een kaartje van de omgeving en wat wel en niet mag in de bossen in dat gebied.
