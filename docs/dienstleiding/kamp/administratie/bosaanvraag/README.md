@@ -1,11 +1,11 @@
 # Bosaanvraag
 
 ::: tip
-Dit artikel is gebaseerd op een outdated [artikel van Opkamp.be](https://www.opkamp.be/toelatingen-wallonie).
+Sinds maart 2023 is er een **nieuwe online manier** om de bosaanvragen te doen. Op [deze pagina](https://www.wallonie.be/fr/demarches/demander-une-autorisation-pour-organiser-une-activite-dans-une-zone-dacces-libre-en-foret#) staat de volledige uitleg.
 :::
 
 ::: tip
-Sinds maart 2023 is er een **nieuwe online manier** om de bosaanvragen te doen. Op [deze pagina](https://www.wallonie.be/fr/demarches/demander-une-autorisation-pour-organiser-une-activite-dans-une-zone-dacces-libre-en-foret#) staat de volledige uitleg.
+Dit artikel is gebaseerd op een outdated [artikel van Opkamp.be](https://www.opkamp.be/toelatingen-wallonie).
 :::
 
 ## Waarom en Hoe

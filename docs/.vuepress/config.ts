@@ -16,6 +16,9 @@ export default defineUserConfig({
         // logo: '/images/logo_light.png',
         // logoDark: '/images/logo_dark.png',
         repo: 'Joris-Peeters/Draaiboek-trefpunt',
+        docsDir: 'docs',
+        warning: 'WAARSCHUWING',
+        danger: 'GEVAAR',
         navbar: [
             '/algemeen/',
             {

@@ -13,7 +13,7 @@ footer: Met liefde geschreven door Joris Peeters
 ---
 # Draaiboek Todo
 
-::: warning Waarschuwing
+::: warning
 Dit is een tijdelijk overzicht van wat de structuur van het draaiboek zou kunnen worden. Dit overzicht is zeker niet compleet.
 :::
 
