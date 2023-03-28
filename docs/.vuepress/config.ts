@@ -32,7 +32,7 @@ export default defineUserConfig({
                     '/evenementen/kerelsbbq/',
                 ]
             },
-            '/groepsleiding/',
+            // '/groepsleiding/',
             {
                 text: 'Dienstleiding',
                 children: [
@@ -42,14 +42,22 @@ export default defineUserConfig({
                     '/dienstleiding/kamp/',
                 ]
             },
-            {
-                text: 'VB',
-                link: '/vb/'
-            },
-            '/kamp/',
+            // '/kamp/',
         ],
         sidebarDepth: 1,
         sidebar: {
+            '/algemeen/': [
+                '/algemeen/agenda.md',
+                '/algemeen/draaiboek.md'
+            ],
+            '/evenementen/': [
+                '/evenementen/diaavond/',
+                '/evenementen/fuif/',
+                '/evenementen/mosselsouper/',
+                '/evenementen/delivery/',
+                '/evenementen/spaghettiavond/',
+                '/evenementen/kerelsbbq/',
+            ],
             '/dienstleiding/': [
                 '/dienstleiding/intro.md',
                 '/dienstleiding/algemeen.md',
